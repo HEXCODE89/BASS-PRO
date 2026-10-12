@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index version="1" name="BASS PRO" commit="1">
   <category name="Plugins">
-    <reapack name="BASS PRO.jsfx" type="effect" desc="BASS PRO - Bass Guitar Enhancer &amp; Dynamics Leveler">
-      <metadata>
-        <description><![CDATA[
-# BASS PRO
-Sound-shaping suite and 7-band dynamics processor for bass guitar.
-Recreated from Sonic-Anomaly JSFX.
-
-### Features
-- 7-band dynamics leveler (Profess)
-- Tube-style bass overdrive (Dirt)
-- LF Cut 6dB/octave highpass filter
-- 7-band precision EQ
-- Dynamic / Fast attack transient shaping
-- Wideband master glue limiter
-]]></description>
-        <link rel="website">https://github.com/cfillion/reapack-repository-template</link>
-      </metadata>
-      <version name="2.0.0" author="Sonic Anomaly / Stige" time="2026-10-12T00:00:00Z">
-        <changelog><![CDATA[Initial ReaPack package release for BASS PRO]]></changelog>
+    <reapack name="BASS PRO.jsfx" type="effect" desc="BASS PRO - Bass Guitar Enhancer and Dynamics Leveler">
+      <version name="2.0.0" author="Sonic Anomaly" time="2026-10-12T00:00:00Z">
         <source file="Plugins/BASS PRO.jsfx">https://raw.githubusercontent.com/cfillion/reapack-repository-template/master/Plugins/BASS%20PRO.jsfx</source>
       </version>
     </reapack>
