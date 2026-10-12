@@ -1,0 +1,10 @@
+{
+  "name": "Sonic Anomaly Bass Professor Mark II",
+  "description": "Sound-shaping suite and 7-band dynamics enhancer for bass guitar recreated from the Sonic Anomaly JSFX plugin.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
